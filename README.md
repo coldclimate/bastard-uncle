@@ -1,2 +1,2 @@
 # bastard-uncle
-source for www.bastard-unclde.com
+source for www.bastard-uncle.com
