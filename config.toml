@@ -1,56 +1,41 @@
-baseURL = "https://example.com/"
-languageCode = "en-us"
-title = "Mediumish"
+baseURL = "https://www.bastard-uncle.com/"
+languageCode = "en-uk"
+title = "Bastard Uncle"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
-copyright = "John Doe - All rights reserved"
+copyright = ""
 enableEmoji = true
 publishDir = "docs"
 #disqusShortname = "your-shortname-here"
-#googleAnalytics = "UA-1XXXXXXX1-1"
+googleAnalytics = "UA-46298735-2"
 
 [params]
   logo = "/images/logo.png"
-  description ="the clean blog!"
+  description ="All best best noisy, messy, fun toys nobody else will buy them"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
-  name = "John Doe"
+  name = "The Bastard Uncle"
   thumbnail = "/images/author.png"
-  description = "Creator of this blog."
+  description = "Honestly, I'm not that much of a bastard"
 
 [params.index]
   picture = "/images/author.png"
-  title = "John Doe"
-  subtitle = "I'm a unique placeholder. Working here and there!"
+  title = "Bastard Uncle.com"
+  subtitle = "All the noisy and messy toys which are too much fun for parents to give them"
   mdtext = '''
-Currently trying to get this blog running, still don't know what the blog will be about!\
-**This textblock is a demonstration of the mdtext-param.**\
-### This is a markdown heading
+I'm just getting started 
+
 '''
   alertbar = false
 
 [params.social]
-  github = "<username>"
-  linkedin = "<username>"
-  xing = "<username>"
-  medium = "<username>"
   twitter = "<username>"
   instagram = "<username>"
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
+    name = "Toys"
     weight = 100
-    identifier = "blog"
+    identifier = "toys"
     url = "/blog"
-[[menu.main]]
-    name = "About Me"
-    identifier = "about"
-    weight = 200
-    url = "/"
-[[menu.main]]
-    name = "Imprint"
-    identifier = "imprint"
-    weight = 200
-    url = "/static/imprint"
