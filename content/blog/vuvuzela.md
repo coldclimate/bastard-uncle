@@ -3,7 +3,7 @@ title: "Vuvuzela"
 date: 2019-04-09T13:14:10+00:00
 publishdate: 2019-04-09T13:14:10+00:00
 image: "/images/blog/rich-smith-1309269-unsplash.jpg"
-tags: ["noisy", "sports"]
+tags: ["noisy", "sports", "no batteries"]
 comments: false
 ---
 

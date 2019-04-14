@@ -3,7 +3,7 @@ title: "Animal Sounds Maker"
 date: 2019-04-13T13:14:10+00:00
 publishdate: 2019-04-13T13:14:10+00:00
 image: "/images/blog/rich-smith-1309269-unsplash.jpg"
-tags: ["noisy", "batteries", "educational"]
+tags: ["noisy", "needs batteries", "educational"]
 comments: false
 ---
 

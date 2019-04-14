@@ -3,7 +3,7 @@ title: "Fart in a can"
 date: 2019-04-11T13:14:10+00:00
 publishdate: 2019-04-11T13:14:10+00:00
 image: "/images/blog/rich-smith-1309269-unsplash.jpg"
-tags: ["noisy", "batteries", "rude"]
+tags: ["noisy", "needs batteries", "rude"]
 comments: false
 ---
 

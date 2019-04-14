@@ -3,30 +3,9 @@ title: "Snazaroo facepaints"
 date: 2019-04-12T11:37:13+00:00
 publishdate: 2019-04-12T11:37:13+00:00
 image: "/images/blog/pranav-jain-613208-unsplash.jpg"
-tags: ["messy"]
+tags: ["messy", "facepaints"]
 comments: false
 ---
-
-Many years ago my mum bought my cousins facepaints because they were both creative kids.  They creatively got them all over the cream carpet.  Here's some of best I can find.
-
-
-## 24 Large Joyin Face Paints including metalic colours
-
-Perfect for parties or a group with lots of great colours.
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wwwcoldclimat-21&language=en_GB&marketplace=amazon&region=GB&placement=B075FH22G4&asins=B075FH22G4&linkId=a6a60c8c4ca0bb4bf30d9fd11a741040&show_border=true&link_opens_in_new_window=true"></iframe>
-
-## Shackcom Face Paint and Crayon Kit
-
-These can be used (with water) for painting on paper as well as faces.  
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wwwcoldclimat-21&language=en_GB&marketplace=amazon&region=GB&placement=B075JD3WJ6&asins=B075JD3WJ6&linkId=96493f555a87e1f1c389811822228c96&show_border=true&link_opens_in_new_window=true"></iframe>
-
-## Cosoon Face Paint Crayons
-
-With their fine point and retractable bodies these look like they're easier to use and less messy, which is probably a good idea.
-
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=wwwcoldclimat-21&language=en_GB&marketplace=amazon&region=GB&placement=B07DWXFT5Y&asins=B07DWXFT5Y&linkId=60158490af5838465c7f811dcef1dbb1&show_border=true&link_opens_in_new_window=true"></iframe>
 
 ## Snazaroo Rainbow Face Paint Palette Kit
 

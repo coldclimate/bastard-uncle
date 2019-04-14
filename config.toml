@@ -24,8 +24,7 @@ googleAnalytics = "UA-46298735-2"
   title = "Bastard Uncle.com"
   subtitle = "All the noisy and messy toys which are too much fun for parents to give them"
   mdtext = '''
-I'm just getting started 
-
+Have a browse though the various categories
 '''
   alertbar = false
 

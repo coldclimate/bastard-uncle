@@ -9,10 +9,10 @@
         ================================================== -->
         <section class="recent-posts">            
             <div class="section-title">                
-                <h2><span>All Toys</span></h2>                
+                <h2><span>All {{ range .Params.tags }} {{.}} {{ end }} Toys</span></h2>                
             </div>            
             <div class="row listrecent">
-                {{ $post_paginator := .Paginate (.Pages) 6 }}
+                {{ $post_paginator := .Paginate (.Pages) 24 }}
                 {{ range $post_paginator.Pages }}
                     {{- partial "list-partials/postbox.html" . -}}
                 {{end}}
