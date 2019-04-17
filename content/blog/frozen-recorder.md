@@ -1,7 +1,7 @@
 ---
-title: "Vuvuzela"
+title: "Frozen Recorder"
 date: 2019-04-17T13:14:10+00:00
-publishdate: 2019-04-09T13:14:10+00:00
+publishdate: 2019-04-17T13:14:10+00:00
 image: "/images/blog/rich-smith-1309269-unsplash.jpg"
 tags: ["noisy", "musical instrument", "no batteries"]
 comments: false
