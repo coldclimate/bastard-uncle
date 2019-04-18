@@ -2,7 +2,7 @@
 title: "Snazaroo Rainbow Face Paint Palette"
 date: 2019-04-12T11:37:13+00:00
 publishdate: 2019-04-12T11:37:13+00:00
-tags: ["messy", "facepaints"]
+tags: ["messy", "facepaints", "no batteries"]
 comments: false
 ---
 

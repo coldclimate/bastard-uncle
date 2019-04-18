@@ -3,7 +3,7 @@ title: "Cosoon Face Paint Crayons"
 date: 2019-04-12T11:38:13+00:00
 publishdate: 2019-04-12T11:38:13+00:00
 image: "/images/blog/pranav-jain-613208-unsplash.jpg"
-tags: ["messy", "facepaints"]
+tags: ["messy", "facepaints", "no batteries"]
 comments: false
 ---
 

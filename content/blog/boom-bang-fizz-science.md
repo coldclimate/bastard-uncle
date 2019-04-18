@@ -2,7 +2,7 @@
 title: "Booms Bangs Fizzes Science Kit from John Adams"
 date: 2019-04-18T14:16:10+00:00
 publishdate: 2019-04-18T14:16:10+00:00
-tags: ["messy",  "educational", ]
+tags: ["messy",  "educational", "no batteries"]
 comments: false
 --- 
 

@@ -2,7 +2,7 @@
 title: "Galt Toys Horrible Science Really Rotten Experiments"
 date: 2019-04-18T13:15:10+00:00
 publishdate: 2019-04-18T13:15:10+00:00
-tags: ["messy",  "educational", "disgusting"]
+tags: ["messy",  "educational", "disgusting", "no batteries"]
 comments: false
 --- 
 

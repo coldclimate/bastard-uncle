@@ -2,7 +2,7 @@
 title: "Galt Toys Horrible Science Blood, Bones and Body Bits"
 date: 2019-04-18T13:16:10+00:00
 publishdate: 2019-04-18T13:16:10+00:00
-tags: ["messy",  "educational", "disgusting"]
+tags: ["messy",  "educational", "disgusting", "no batteries"]
 comments: false
 --- 
 

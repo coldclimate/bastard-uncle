@@ -2,7 +2,7 @@
 title: "Shackcom Face Paint and Crayon Kit"
 date: 2019-04-12T11:36:13+00:00
 publishdate: 2019-04-12T11:36:13+00:00
-tags: ["messy", "facepaints"]
+tags: ["messy", "facepaints", "no batteries"]
 comments: false
 ---
 

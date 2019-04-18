@@ -2,7 +2,7 @@
 title: "Large Joyin Face Paints including metalic colours"
 date: 2019-04-12T11:35:13+00:00
 publishdate: 2019-04-12T11:35:13+00:00
-tags: ["messy", "facepaints"]
+tags: ["messy", "facepaints", "no batteries"]
 comments: false
 ---
 
