@@ -1,4 +1,4 @@
-baseURL = "https://www.bastard-uncle.com/"
+baseURL = "https://www.bastard-uncle.com"
 languageCode = "en-uk"
 title = "Bastard Uncle"
 theme = "mediumish-gohugo-theme"
