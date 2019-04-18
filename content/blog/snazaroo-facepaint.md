@@ -1,13 +1,11 @@
 ---
-title: "Snazaroo facepaints"
+title: "Snazaroo Rainbow Face Paint Palette"
 date: 2019-04-12T11:37:13+00:00
 publishdate: 2019-04-12T11:37:13+00:00
-image: "/images/blog/pranav-jain-613208-unsplash.jpg"
 tags: ["messy", "facepaints"]
 comments: false
 ---
 
-## Snazaroo Rainbow Face Paint Palette Kit
 
 The original name in face paints and stage makeup, Snazaroo were founded in 1862 in Paris.  This kit uses a palete and brush rather than the crayons.
 

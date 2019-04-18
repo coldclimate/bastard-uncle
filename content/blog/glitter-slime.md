@@ -1,14 +1,10 @@
 ---
-title: "Glitter slime lab"
+title: "Glitter Slime Lab"
 date: 2019-04-10T13:14:10+00:00
 publishdate: 2019-04-09T13:14:10+00:00
-image: "/images/blog/pranav-jain-613208-unsplash.jpg"
 tags: ["messy", "no batteries"]
 comments: false
 ---
-
-
-##  Deluxe Glitter Slime Making Kit  
 
 I don't understand why slime is so popular, but I certainly see the attraction (so long as it's not in my house).  Oh, and this one contains glitter!  That will definetly not be a problem.
 

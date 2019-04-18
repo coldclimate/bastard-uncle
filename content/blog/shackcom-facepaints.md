@@ -1,13 +1,10 @@
 ---
-title: "Shackcom facepaints"
+title: "Shackcom Face Paint and Crayon Kit"
 date: 2019-04-12T11:36:13+00:00
 publishdate: 2019-04-12T11:36:13+00:00
-image: "/images/blog/pranav-jain-613208-unsplash.jpg"
 tags: ["messy", "facepaints"]
 comments: false
 ---
-
-## Shackcom Face Paint and Crayon Kit
 
 These can be used (with water) for painting on paper as well as faces.  
 

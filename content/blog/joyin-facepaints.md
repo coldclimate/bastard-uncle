@@ -1,13 +1,10 @@
 ---
-title: "Joyin facepaints"
+title: "Large Joyin Face Paints including metalic colours"
 date: 2019-04-12T11:35:13+00:00
 publishdate: 2019-04-12T11:35:13+00:00
-image: "/images/blog/pranav-jain-613208-unsplash.jpg"
 tags: ["messy", "facepaints"]
 comments: false
 ---
-
-## 24 Large Joyin Face Paints including metalic colours
 
 Perfect for parties or a group with lots of great colours.
 

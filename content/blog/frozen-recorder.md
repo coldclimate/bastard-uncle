@@ -1,14 +1,10 @@
 ---
-title: "Frozen Recorder"
+title: "Disney Frozen Recorder"
 date: 2019-04-17T13:14:10+00:00
 publishdate: 2019-04-17T13:14:10+00:00
-image: "/images/blog/rich-smith-1309269-unsplash.jpg"
 tags: ["noisy", "musical instrument", "no batteries"]
 comments: false
 ---
-
-
-## Frozon Recorder 
 
 The recorder is without doubt the worst and terriblely noisy excuse for an instrument.  The reviews are astounding.  This might be the original bastard uncle present.
 

@@ -1,13 +1,10 @@
----
+ airhotn---
 title: "Fart in a can"
 date: 2019-04-11T13:14:10+00:00
 publishdate: 2019-04-11T13:14:10+00:00
-image: "/images/blog/rich-smith-1309269-unsplash.jpg"
 tags: ["noisy", "needs batteries", "rude"]
 comments: false
 ---
-
-## Fart in a can airhorn
 
 Nothing is funnier than fart jokes when you're 8. Or 38. Compressed air cans are dangerous and so this is a battery powered one, made to look like an air horn.
 

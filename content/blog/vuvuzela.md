@@ -1,14 +1,10 @@
 ---
-title: "Vuvuzela"
+title: "26-Inch Vuvuzela Stadium Horn"
 date: 2019-04-09T13:14:10+00:00
 publishdate: 2019-04-09T13:14:10+00:00
-image: "/images/blog/rich-smith-1309269-unsplash.jpg"
 tags: ["noisy", "sports", "no batteries"]
 comments: false
 ---
-
-
-## 26-Inch Vuvuzela Stadium Horn
 
 Since first gracing our screen and ears in 2010 the vuvuzela has remained the undoubted king of irritating noise making "toy".  No batteries requires. Good. 
 

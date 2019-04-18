@@ -1,13 +1,11 @@
 ---
-title: "Cosoon facepaints"
+title: "Cosoon Face Paint Crayons"
 date: 2019-04-12T11:38:13+00:00
 publishdate: 2019-04-12T11:38:13+00:00
 image: "/images/blog/pranav-jain-613208-unsplash.jpg"
 tags: ["messy", "facepaints"]
 comments: false
 ---
-
-## Cosoon Face Paint Crayons
 
 With their fine point and retractable bodies these look like they're easier to use and less messy, which is probably a good idea.
 
