@@ -3,14 +3,7 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
     <div class="container pr-0">
         <!-- Begin Logo -->
-        <a class="navbar-brand" href="{{ .Site.BaseURL }}/">
-
-            {{ with .Site.Params.logo }}
-            <img src="{{ . | urlize | relURL }}" alt="logo">
-            {{ else }}
-            <span style="font-family:Righteous;">{{.Site.Title}}</span>
-            {{ end }}
-        </a>
+        <h1 style="font-family:Righteous;" class="sitetitle"><a href="/">{{ .Site.Title }}</a></h1>
         <!-- End Logo -->
 
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent"

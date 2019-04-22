@@ -21,8 +21,8 @@ googleAnalytics = "UA-46298735-2"
 
 [params.index]
   picture = "/images/author.png"
-  title = "Bastard Uncle.com: All the best noisy, messy, exciting and educational presents their parents would never buy them"
-  subtitle = "All the noisy and messy toys which are too much fun for parents to give them"
+  title = "All the best noisy, messy, exciting and educational presents their parents would never buy them"
+  subtitle = ""
   mdtext = '''
 Have a browse though the various categories
 '''
